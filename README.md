@@ -1,0 +1,2 @@
+# obce
+zoznam obci
